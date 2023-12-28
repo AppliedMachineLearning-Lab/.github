@@ -1,7 +1,7 @@
 # Introduction
 
 # Topic overview
-- [Medical Data Processing](#medical_data_processing)
+- [Medical Data Processing](#medical-data-processing)
 
 ## Medical Data Processing
 Topic ideas: AI guided medicine/Intelligent diagnostics/ Cognitive medicine
