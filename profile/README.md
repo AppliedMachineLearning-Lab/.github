@@ -20,7 +20,7 @@ We advance Representation Learning in NLP by focusing on developing sophisticate
 
 - [Deußer, T., Hillebrand, L., Bauckhage, C., & Sifa, R. (2023). Informed Named Entity Recognition Decoding for Generative Language Models.](https://doi.org/10.48550/arXiv.2308.07791)
 - [Wahab, A., & Sifa, R. (2021, December). DIBERT: Dependency injected bidirectional encoder representations from transformers. In 2021 IEEE Symposium Series on Computational Intelligence (SSCI) (pp. 1-8). IEEE.](https://doi.org/10.1109/SSCI50451.2021.9659898)
-- [Ramamurthy, R., Ammanabrolu, P., Brantley, K., Hessel, J., Sifa, R., Bauckhage, C., Hajishirzi, H & Choi, Y. (2023). Is Reinforcement Learning (Not) for Natural Language Processing: Benchmarks, Baselines, and Building Blocks for Natural Language Policy Optimization. In The Eleventh International Conference on Learning Representations.](https://openreview.net/forum?id=8aHzds2uUyB)
+- [Ramamurthy, R., Ammanabrolu, P., Brantley, K., Hessel, J., Sifa, R., Bauckhage, C., Hajishirzi, H & Choi, Y. (2023). Is Reinforcement Learning (Not) for Natural Language Processing: Benchmarks, Baselines, and Building Blocks for Natural Language Policy Optimization. In The Eleventh International Conference on Learning Representations (ICLR).](https://openreview.net/forum?id=8aHzds2uUyB)
 
 
 ## Medical Data Processing
