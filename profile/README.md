@@ -12,6 +12,8 @@ Prof. Dr. Rafet Sifa is a Machine Learning professor at University of Bonn and t
 
 ## Dr. Lorenz Sparrenberg
 
+Dr. Lorenz Sparrenberg is a post-doctoral researcher and holds a PhD in natural sciences from RWTH Aachen University. At Fraunhofer FIT, Dr. Sparrenberg focused on cancer markers and multi-resistant germs, using single molecule detection methods as well as statistical approaches and machine learning. His interests now lie in research on large language models and the analysis of medical data.  He also works as an independent data scientist and has substantial experience in industry.
+
 ## Tobias Deußer
 <p align="center">
   <img src="tobi_circle.png">
