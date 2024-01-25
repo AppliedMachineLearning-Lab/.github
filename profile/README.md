@@ -90,6 +90,12 @@ The "Applied Machine Learning Lab" (AML Lab) rises to meet these challenges in m
 #### Our Commitment
 At AML Lab, we are committed to bridging the gap between advanced technology and everyday medical practices, ensuring that healthcare professionals are equipped with the best tools to make informed decisions. For more information or to collaborate with us, please contact [contact information].
 
+#### Highlighted Publications
+
+- [D. Biesner, H. Schneider, B. Wulff, U. Attenberger and R. Sifa (2022). Improving Chest X-Ray Classification by RNN-based Patient Monitoring. In: 21st IEEE International Conference on Machine Learning and Applications (ICMLA), Nassau, Bahamas, 2022, pp. 946-950, doi: 10.1109/ICMLA55696.2022.00158.](https://doi.org/10.1109/ICMLA55696.2022.00158)
+- [Schneider, H. et al. (2023). Symmetry-Aware Siamese Network: Exploiting Pathological Asymmetry for Chest X-Ray Analysis. In: Artificial Neural Networks and Machine Learning – ICANN 2023. Lecture Notes in Computer Science, 14257, Springer, doi: 10.1007/978-3-031-44216-2_14](https://doi.org/10.1007/978-3-031-44216-2_14)
+- [Luetkens, J.A., Nowak, S., Mesropyan, N. et al. (2022). Deep learning supports the differentiation of alcoholic and other-than-alcoholic cirrhosis based on MRI. In: Sci Rep 12, 8297,  doi:  10.1038/s41598-022-12410-2](https://doi.org/10.1038/s41598-022-12410-2)
+
 # Teaching
 
 ## Summer Semester 2024
