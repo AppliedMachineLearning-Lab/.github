@@ -92,9 +92,32 @@ At AML Lab, we are committed to bridging the gap between advanced technology and
 
 #### Highlighted Publications
 
-- [D. Biesner, H. Schneider, B. Wulff, U. Attenberger and R. Sifa (2022). Improving Chest X-Ray Classification by RNN-based Patient Monitoring. In: 21st IEEE International Conference on Machine Learning and Applications (ICMLA), Nassau, Bahamas, 2022, pp. 946-950, doi: 10.1109/ICMLA55696.2022.00158.](https://doi.org/10.1109/ICMLA55696.2022.00158)
-- [Schneider, H. et al. (2023). Symmetry-Aware Siamese Network: Exploiting Pathological Asymmetry for Chest X-Ray Analysis. In: Artificial Neural Networks and Machine Learning – ICANN 2023. Lecture Notes in Computer Science, 14257, Springer, doi: 10.1007/978-3-031-44216-2_14](https://doi.org/10.1007/978-3-031-44216-2_14)
-- [Luetkens, J.A., Nowak, S., Mesropyan, N. et al. (2022). Deep learning supports the differentiation of alcoholic and other-than-alcoholic cirrhosis based on MRI. In: Sci Rep 12, 8297,  doi:  10.1038/s41598-022-12410-2](https://doi.org/10.1038/s41598-022-12410-2)
+- [D. Biesner, H. Schneider, B. Wulff, U. Attenberger and R. Sifa (2022). **Improving Chest X-Ray Classification by RNN-based Patient Monitoring.** 21st IEEE International Conference on Machine Learning and Applications (ICMLA), Nassau, Bahamas, 2022, pp. 946-950, doi: 10.1109/ICMLA55696.2022.00158.](https://doi.org/10.1109/ICMLA55696.2022.00158)
+- [Schneider, H. et al. (2023). **Symmetry-Aware Siamese Network: Exploiting Pathological Asymmetry for Chest X-Ray Analysis.** Artificial Neural Networks and Machine Learning – ICANN 2023. Lecture Notes in Computer Science, 14257, Springer, doi: 10.1007/978-3-031-44216-2_14](https://doi.org/10.1007/978-3-031-44216-2_14)
+- [Luetkens, J.A., Nowak, S., Mesropyan, N. et al. (2022). **Deep learning supports the differentiation of alcoholic and other-than-alcoholic cirrhosis based on MRI.** Sci Rep 12, 8297,  doi:  10.1038/s41598-022-12410-2](https://doi.org/10.1038/s41598-022-12410-2)
+
+## Behavioral Analytics
+
+Behavioral analytics is a sophisticated field dedicated to deciphering and modeling human behavior, personality traits and decision-making processes. Its aim is to analyze and understand the reasons for and manner of individual actions. In this area, elements from psychology, data analysis and user experience design are combined to obtain a comprehensive picture of human behavior, with a focus on reactions to different stimuli and environments. This fusion leads to more strategic and informed decision making. By using behavioral analytics, companies can not only anticipate future trends and behaviors, but also adapt their services and products to the individual needs and preferences of their customers. This customization is the key to improving performance and maintaining a competitive advantage.
+
+#### Challenges in General Behavioral Analytics
+
+Modeling human behavior is a complex task due to the multivariate nature of personalities. Furthermore, human behavior is highly dependent on the social, cultural and environmental context. Therefore, controlled environments in which the variables can be closely observed and analyzed are of great value. Video games provide such a controlled setting and are therefore ideal for pioneering studies in the field of behavior analysis. Their defined rules and interactive elements provide a microcosm of real-life social interactions and behaviors. Research in gaming behavior allows the development of models with potential applicability to broader real-life scenarios. However, this involves intricate modeling that might not always directly translate to non-gaming contexts, given the unique aspects of gaming motivations and environments. Additionally, the anonymity prevalent in these settings might not fully reflect real-world social dynamics.
+
+#### Our Commitment to Bridging the Gap
+
+In recognition of these challenges, our team is dedicated to extending the reach of behavioral analytics from gaming to wider real-life applications. We strive to use the controlled environment of gaming to build foundational models of personality and behavior that can enhance our understanding of real-world human interactions.
+
+Our strategy involves refining analytical methods to capture complex human behaviors and personalities in more diverse settings. By examining player motivations and social dynamics within games, we aim to identify parallels and contrasts with behaviors in everyday life. This approach is intended to improve the predictive accuracy and relevance of our models, fostering a deeper understanding of human behavior across various contexts.
+
+#### Highlighted Publications
+
+- [R. Perry, A. Drachen, A. Kearney, S. Kriglstein, L.E. Nacke, R. Sifa, G. Wallner and D. Johnson (2018). **Online-only friends, real-life friends or strangers? Differential associations with passion and social capital in video game play.** Computers in Human Behavior, 79, pp. 202-210.](https://doi.org/10.1016/j.chb.2017.10.032)
+
+- [M. Schaekermann, G. Ribeiro, G. Wallner, S. Kriglstein, D. Johnson, A. Drachen, R. Sifa and L. E. Nacke (2017). **Curiously Motivated: Profiling Curiosity with Self-Reports and Behaviour Metrics in the Game "Destiny".** Proceedings of the Annual Symposium on Computer-Human Interaction in Play 2017, New York, USA, pp. 143-156.](https://doi.org/10.1145/3116595.3116603)
+
+- [F. Hadiji, R. Sifa, A. Drachen, C. Thurau, K. Kersting and C. Bauckhage (2014). **Predicting player churn in the wild.** 2014 IEEE Conference on Computational Intelligence and Games (CIG), Dortmund, Germany, pp. 1-8.](https://doi.org/10.1109/CIG.2014.6932876)
+
 
 # Teaching
 
