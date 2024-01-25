@@ -71,9 +71,19 @@ At AML Lab, we are committed to bridging the gap between advanced technology and
 
 # Teaching
 
-## Our courses
+## Summer Semester 2024
 
-## Our seminars
+### Our courses
+
+- Advanced Methods for Text Mining
+
+### Our seminars
+
+- Theory of Deep Learning
+
+### Our labs
+
+- Explainable AI & Applications
 
 # Our publications
 - [D. Biesner, H. Schneider, B. Wulff, U. Attenberger and R. Sifa (2022). Improving Chest X-Ray Classification by RNN-based Patient Monitoring. In: 21st IEEE International Conference on Machine Learning and Applications (ICMLA), Nassau, Bahamas, 2022, pp. 946-950, doi: 10.1109/ICMLA55696.2022.00158.](https://doi.org/10.1109/ICMLA55696.2022.00158)
