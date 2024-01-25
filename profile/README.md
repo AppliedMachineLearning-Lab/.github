@@ -18,9 +18,28 @@ We advance Representation Learning in NLP by focusing on developing sophisticate
 
 #### Highlighted Publications
 
-- [Ramamurthy, R., Ammanabrolu, P., Brantley, K., Hessel, J., Sifa, R., Bauckhage, C., Hajishirzi, H & Choi, Y. (2023). Is Reinforcement Learning (Not) for Natural Language Processing: Benchmarks, Baselines, and Building Blocks for Natural Language Policy Optimization. In The Eleventh International Conference on Learning Representations (ICLR).](https://openreview.net/forum?id=8aHzds2uUyB)
-- [Deußer, T., Hillebrand, L., Bauckhage, C., & Sifa, R. (2023). Informed Named Entity Recognition Decoding for Generative Language Models.](https://doi.org/10.48550/arXiv.2308.07791)
-- [Wahab, A., & Sifa, R. (2021, December). DIBERT: Dependency injected bidirectional encoder representations from transformers. In 2021 IEEE Symposium Series on Computational Intelligence (SSCI) (pp. 1-8). IEEE.](https://doi.org/10.1109/SSCI50451.2021.9659898)
+- [Ramamurthy, R., Ammanabrolu, P., Brantley, K., Hessel, J., Sifa, R., Bauckhage, C., Hajishirzi, H & Choi, Y. (2023). **Is Reinforcement Learning (Not) for Natural Language Processing: Benchmarks, Baselines, and Building Blocks for Natural Language Policy Optimization**.. In The Eleventh International Conference on Learning Representations (ICLR).](https://openreview.net/forum?id=8aHzds2uUyB)
+- [Deußer, T., Hillebrand, L., Bauckhage, C., & Sifa, R. (2023). **Informed Named Entity Recognition Decoding for Generative Language Models**.](https://doi.org/10.48550/arXiv.2308.07791)
+- [Wahab, A., & Sifa, R. (2021, December). **DIBERT: Dependency injected bidirectional encoder representations from transformers**. In 2021 IEEE Symposium Series on Computational Intelligence (SSCI) (pp. 1-8). IEEE.](https://doi.org/10.1109/SSCI50451.2021.9659898)
+
+
+### 2. NLP for Finance
+
+Natural Language Processing (NLP) is transforming the landscape of financial reporting and accounting. In these fields, where the accuracy and timeliness of information are paramount, NLP stands out as a pivotal technology. Our lab is committed to leveraging NLP to enhance the efficiency and reliability of financial reporting and accounting processes, focusing on automating data extraction, enhancing report generation, and improving the financial auditing process.
+
+#### Challenges and Opportunities
+
+In financial reporting and accounting, professionals often grapple with vast amounts of unstructured data, including invoices, receipts, and financial statements. One of the primary challenges lies in extracting and interpreting relevant financial information accurately from these diverse documents. Additionally, the financial sector is subject to rigorous compliance and regulatory standards, making it crucial for reports to be precise and in line with current laws and regulations. The opportunity for NLP is significant: automating data extraction and analysis can lead to faster, error-free reporting and accounting processes and aid in real-time decision-making based on financial insights.
+
+#### AML Lab's Role in Addressing These Challenges 
+
+Our lab is dedicated to developing advanced NLP solutions specifically tailored to financial reporting and accounting needs. We focus on creating algorithms that can seamlessly parse and interpret complex financial documents, extracting key data points with high accuracy. Our models are designed to understand and categorize financial information, facilitating swift and automated report generation. Furthermore, we are working on integrating regulatory compliance checks within these models, ensuring that all reports adhere to the latest financial regulations and standards. By incorporating NLP into financial reporting and accounting, we aim to revolutionize these fields, making them more efficient, compliant, and reliable.
+
+#### Highlighted Publications
+
+- [Hillebrand, L., Deußer, T., Dilmaghani, T., Kliem, B., Loitz, R., Bauckhage, C., & Sifa, R. (2022). **KPI-BERT: A joint named entity recognition and relation extraction model for financial reports.** In 2022 26th International Conference on Pattern Recognition (ICPR) (pp. 606-612). IEEE.](https://doi.org/10.1109/ICPR56361.2022.9956191)
+- [Deußer, T., Pielka, M., Pucknat, L., Jacob, B., Dilmaghani, T., Nourimand, M., ... & Sifa, R. (2023, January). **Contradiction detection in financial reports**. In Proceedings of the Northern Lights Deep Learning (NLDL).](https://doi.org/10.24406/publica-1029)
+- [Sifa, R., Ladi, A., Pielka, M., Ramamurthy, R., Hillebrand, L., Kirsch, B., ... & Loitz, R. (2019, September). **Towards automated auditing with machine learning**. In Proceedings of the ACM Symposium on Document Engineering 2019 (pp. 1-4).](https://doi.org/10.1145/3342558.3345421)
 
 ## Medical Data Processing
 Topic ideas: AI guided medicine/Intelligent diagnostics/ Cognitive medicine
