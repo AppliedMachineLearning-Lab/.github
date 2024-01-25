@@ -14,6 +14,8 @@ Prof. Dr. Rafet Sifa is a Machine Learning professor at University of Bonn and t
 
 ## Tobias Deußer
 
+Tobias Deußer is a passionate Machine Learning and Natural Language Processing researcher at University of Bonn and a Senior Data Scientist at Fraunhofer Institute for Intelligent Analysis and Information Systems (IAIS). He is pursuing his PhD in Machine Learning at the University of Bonn. Prior to starting his PhD, Tobi worked as a Data Scientist at Ernst & Young, where he developed and deployed various machine learning solutions in a Finance context. His research focuses on developing new methods to leverage large language models (LLMs) to improve downstream tasks that are typically unsuited to be solved by such models and how we can use LLMs to solve real-world problems.
+
 # Topic overview
 - [Natural Language Processing](#natural-language-processing)
 - [Medical Data Processing](#medical-data-processing)
