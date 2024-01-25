@@ -137,5 +137,3 @@ Our strategy involves refining analytical methods to capture complex human behav
 ### Our labs
 
 - Explainable AI & Applications
-- [Schneider, H. et al. (2022). Improving Intensive Care Chest X-Ray Classification by Transfer Learning and Automatic Label Generation. In: 2022 ESANN European Symposium on Artificial Neural Networks, Computational Intelligence and Machine Learning, Bruges, Belgium, 2022, pp. 457-462,  isbn: 978287587084-1.](https://www.esann.org/sites/default/files/proceedings/2022/ES2022-85.pdf)
-- [Schneider, H. et al. (2022). Towards Symmetry-Aware Pneumonia Detection on Chest X-Rays. In: 2022 IEEE Symposium Series on Computational Intelligence (SSCI), Singapore, Singapore, 2022, pp. 543-550, doi: 10.1109/SSCI51031.2022.10022222.](https://doi.org/10.1109/SSCI51031.2022.10022222)
