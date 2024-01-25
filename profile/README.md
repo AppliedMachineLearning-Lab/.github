@@ -135,10 +135,5 @@ Our strategy involves refining analytical methods to capture complex human behav
 ### Our labs
 
 - Explainable AI & Applications
-
-# Our publications
-- [D. Biesner, H. Schneider, B. Wulff, U. Attenberger and R. Sifa (2022). Improving Chest X-Ray Classification by RNN-based Patient Monitoring. In: 21st IEEE International Conference on Machine Learning and Applications (ICMLA), Nassau, Bahamas, 2022, pp. 946-950, doi: 10.1109/ICMLA55696.2022.00158.](https://doi.org/10.1109/ICMLA55696.2022.00158)
-- [Schneider, H. et al. (2023). Symmetry-Aware Siamese Network: Exploiting Pathological Asymmetry for Chest X-Ray Analysis. In: Artificial Neural Networks and Machine Learning – ICANN 2023. Lecture Notes in Computer Science, 14257, Springer, doi: 10.1007/978-3-031-44216-2_14](https://doi.org/10.1007/978-3-031-44216-2_14)
-- [Luetkens, J.A., Nowak, S., Mesropyan, N. et al. (2022). Deep learning supports the differentiation of alcoholic and other-than-alcoholic cirrhosis based on MRI. In: Sci Rep 12, 8297,  doi:  10.1038/s41598-022-12410-2](https://doi.org/10.1038/s41598-022-12410-2)
 - [Schneider, H. et al. (2022). Improving Intensive Care Chest X-Ray Classification by Transfer Learning and Automatic Label Generation. In: 2022 ESANN European Symposium on Artificial Neural Networks, Computational Intelligence and Machine Learning, Bruges, Belgium, 2022, pp. 457-462,  isbn: 978287587084-1.](https://www.esann.org/sites/default/files/proceedings/2022/ES2022-85.pdf)
 - [Schneider, H. et al. (2022). Towards Symmetry-Aware Pneumonia Detection on Chest X-Rays. In: 2022 IEEE Symposium Series on Computational Intelligence (SSCI), Singapore, Singapore, 2022, pp. 543-550, doi: 10.1109/SSCI51031.2022.10022222.](https://doi.org/10.1109/SSCI51031.2022.10022222)
