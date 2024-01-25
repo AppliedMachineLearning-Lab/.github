@@ -41,6 +41,22 @@ Our lab is dedicated to developing advanced NLP solutions specifically tailored 
 - [Deußer, T., Pielka, M., Pucknat, L., Jacob, B., Dilmaghani, T., Nourimand, M., ... & Sifa, R. (2023, January). **Contradiction detection in financial reports**. In Proceedings of the Northern Lights Deep Learning (NLDL).](https://doi.org/10.24406/publica-1029)
 - [Sifa, R., Ladi, A., Pielka, M., Ramamurthy, R., Hillebrand, L., Kirsch, B., ... & Loitz, R. (2019, September). **Towards automated auditing with machine learning**. In Proceedings of the ACM Symposium on Document Engineering 2019 (pp. 1-4).](https://doi.org/10.1145/3342558.3345421)
 
+### 3. Legal NLP
+
+Natural Language Processing (NLP) is increasingly becoming a transformative technology in the legal sector. Its applications range from document analysis to automated contract review, enhancing the efficiency and accuracy of legal processes. Our lab is deeply invested in harnessing NLP to revolutionize legal operations, focusing on automating legal document analysis, facilitating legal research, and streamlining compliance.
+
+#### Challenges and Opportunities
+
+The legal field presents unique challenges for NLP due to the complex, nuanced nature of legal language. Legal documents such as contracts, legislation, and case law are often lengthy, dense, and laden with specialized terminology. The challenge for NLP in this domain is to interpret and analyze these texts accurately, ensuring a deep understanding of legal jargon and context. On the opportunity side, NLP can significantly automate and simplify tasks such as document review, case prediction, and compliance monitoring. This can lead to substantial time and cost savings, allowing legal professionals to focus on more strategic aspects of their work.
+
+#### AML Lab's Role in Addressing These Challenges
+
+At AML Lab, we are focused on developing NLP technologies tailored for legal applications. Our research and development efforts are geared towards creating sophisticated algorithms capable of understanding and processing complex legal language. We are working on tools that can automatically extract relevant information from legal documents, predict legal outcomes, and ensure compliance with laws and regulations. Additionally, we are exploring ways to facilitate legal research by enabling efficient searching and categorization of legal texts. By applying NLP to legal challenges, we aim to support legal professionals in delivering more efficient, accurate, and accessible legal services.
+
+#### Highlighted Publications
+
+- [Hillebrand, L., Pielka, M., Leonhard, D., Deußer, T., Dilmaghani, T., Kliem, B., Loitz, R., Morad, M.J., Temath, C., Bell, T., Stenzel, R., & Sifa, R. (2023). **sustain.AI: a Recommender System to analyze Sustainability Reports**. Proceedings of the Nineteenth International Conference on Artificial Intelligence and Law (ICAIL).](https://doi.org/10.1145/3594536.3595131)
+
 ## Medical Data Processing
 Topic ideas: AI guided medicine/Intelligent diagnostics/ Cognitive medicine
 
