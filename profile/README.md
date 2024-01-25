@@ -24,6 +24,7 @@ Tobias Deußer is a Machine Learning and Natural Language Processing researcher 
 # Topic overview
 - [Natural Language Processing](#natural-language-processing)
 - [Medical Data Processing](#medical-data-processing)
+- [Behavioral Analytics](#behavioral-analytics)
 
 ## Natural Language Processing
 
