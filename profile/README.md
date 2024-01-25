@@ -1,6 +1,20 @@
-## Introduction
+# Introduction
 
-## Topic overview
+Led by Prof. Dr. Rafet Sifa, the Applied Machine Learning Lab focuses on addressing the challenges of implementing machine learning models in real-world settings while developing novel methods for pattern analysis and representation learning. The lab's primary area of investigation is based on constructing hybrid, interpretable, and resource-aware learning systems with practical applications in text mining, behavioral analytics, and medical informatics.
+
+# Team
+
+## Prof. Dr. Rafet Sifa
+
+![Prof. Dr. Rafet Sifa](rafet_circle.png "Rafet Sifa")
+
+Prof. Dr. Rafet Sifa is a Machine Learning professor at University of Bonn and the head of the Media Engineering Department at Fraunhofer Institute for Intelligent Analysis and Information Systems (IAIS). His current research focus is based on statistical data mining in the context of representation learning for a variety of industry applications involving behavioral analytics, medical informatics, accounting,  digital forensics and text mining. 
+
+## Dr. Lorenz Sparrenberg
+
+## Tobias Deußer
+
+# Topic overview
 - [Natural Language Processing](#natural-language-processing)
 - [Medical Data Processing](#medical-data-processing)
 
