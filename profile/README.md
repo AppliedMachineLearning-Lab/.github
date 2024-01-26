@@ -61,9 +61,9 @@ Our lab is dedicated to developing advanced NLP solutions specifically tailored 
 
 #### Highlighted Publications
 
+- [Deußer, T., Leonhard, D., Hillebrand, L. P., Berger, A., Khaled, M., Heiden, S., Dilmaghani, T., Kliem, B., Loitz, R., Bauckhage, C., & Sifa, R. (2023). **Uncovering Inconsistencies and Contradictions in Financial Reports using Large Language Models.** International Conference on Big Data (BigData) IEEE.](https://doi.org/10.24406/publica-2501)
 - [Hillebrand, L., Deußer, T., Dilmaghani, T., Kliem, B., Loitz, R., Bauckhage, C., & Sifa, R. (2022). **KPI-BERT: A joint named entity recognition and relation extraction model for financial reports.** In 2022 26th International Conference on Pattern Recognition (ICPR) (pp. 606-612). IEEE.](https://doi.org/10.1109/ICPR56361.2022.9956191)
-- [Deußer, T., Pielka, M., Pucknat, L., Jacob, B., Dilmaghani, T., Nourimand, M., ... & Sifa, R. (2023, January). **Contradiction detection in financial reports**. In Proceedings of the Northern Lights Deep Learning (NLDL).](https://doi.org/10.24406/publica-1029)
-- [Sifa, R., Ladi, A., Pielka, M., Ramamurthy, R., Hillebrand, L., Kirsch, B., ... & Loitz, R. (2019, September). **Towards automated auditing with machine learning**. In Proceedings of the ACM Symposium on Document Engineering 2019 (pp. 1-4).](https://doi.org/10.1145/3342558.3345421)
+- [Sifa, R., Ladi, A., Pielka, M., Ramamurthy, R., Hillebrand, L., Kirsch, B., ... & Loitz, R. (2019, September). **Towards automated auditing with machine learning**. In Proceedings of the ACM Symposium on Document Engineering (DocEng) 2019 (pp. 1-4).](https://doi.org/10.1145/3342558.3345421)
 
 ### 3. Legal NLP
 
