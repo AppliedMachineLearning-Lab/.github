@@ -1,3 +1,10 @@
+# Content
+
+- [Introduction](#introduction)
+- [Team](#team)
+- [Topics](#research-topics)
+- [Teaching](#teaching)
+
 # Introduction
 
 Led by Prof. Dr. Rafet Sifa, the Applied Machine Learning Lab focuses on addressing the challenges of implementing machine learning models in real-world settings while developing novel methods for pattern analysis and representation learning. The lab's primary area of investigation is based on constructing hybrid, interpretable, and resource-aware learning systems with practical applications in text mining, behavioral analytics, and medical informatics.
@@ -23,7 +30,7 @@ Dr. Lorenz Sparrenberg is a post-doctoral researcher and holds a PhD in natural 
 
 Tobias Deußer is a Machine Learning and Natural Language Processing researcher at the University of Bonn and a Senior Data Scientist at Fraunhofer Institute for Intelligent Analysis and Information Systems (IAIS). He is pursuing his PhD in Machine Learning at the University of Bonn. Prior to starting his PhD, he worked as a Data Scientist at Ernst & Young, where he developed and deployed various machine learning solutions in a Finance context. His research focuses on developing new methods to leverage large language models (LLMs) to improve downstream tasks that are typically unsuited to be solved by such models and how we can use LLMs to solve real-world problems.
 
-# Topic overview
+# Research Topics
 - [Natural Language Processing](#natural-language-processing)
 - [Medical Data Processing](#medical-data-processing)
 - [Behavioral Analytics](#behavioral-analytics)
