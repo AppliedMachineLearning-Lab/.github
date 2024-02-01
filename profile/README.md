@@ -37,6 +37,13 @@ Tobias Deußer is a Machine Learning and Natural Language Processing researcher 
 
 Armin Berger is a Data Scientist at Fraunhofer Institute for Intelligent Analysis and Information Systems (IAIS) and a PhD Research Fellow in Machine Learning at the University of Bonn.  His research is centered on Model Distillation, particularly its application in Natural Language Processing (NLP) and Large Language Models (LLMs). This focus on model compression facilitates the deployment of LLMs in resource-constrained environments and enhances data privacy. Before his tenure at Fraunhofer and the University of Bonn, he gained experience in Data Science and Management Consulting at various firms, including KPMG and Porsche Consulting.
 
+## Maren Pielka
+<p align="center">
+  <img src="maren_circle.png">
+</p>
+
+Maren Pielka is a Data Scientist at Fraunhofer Institute for Intelligent Analysis and Information Systems (IAIS) and a PhD Research Fellow in Machine Learning at the University of Bonn. Her research focus lies in Natural Language Processing (NLP) and Large Language Models (LLMs), with a particular interest in model compression and efficiency. For her PhD thesis, she studies different methods for integrating linguistic knowledge into LLM training. She finished her Master's in Computer Science at the University of Bonn in 2019. From 2020, she has been a full-time Data Scientist and worked in several NLP-related industry projects, for example on an AI-based tool for automated auditing.
+
 # Research Topics
 - [Natural Language Processing](#natural-language-processing)
 - [Medical Data Processing](#medical-data-processing)
