@@ -32,7 +32,7 @@ Tobias Deußer is a Machine Learning and Natural Language Processing researcher 
 
 ## Armin Berger
 <p align="center">
-  <img src="armin_circle.png">
+  <img src="armin_circle.png" width=23%>
 </p>
 
 Armin Berger is a Data Scientist at Fraunhofer Institute for Intelligent Analysis and Information Systems (IAIS) and a PhD Research Fellow in Machine Learning at the University of Bonn.  His research is centered on Model Distillation, particularly its application in Natural Language Processing (NLP) and Large Language Models (LLMs). This focus on model compression facilitates the deployment of LLMs in resource-constrained environments and enhances data privacy. Before his tenure at Fraunhofer and the University of Bonn, he finished his Master of Data Science at Monash University in Melbourne, Australia, and gained experience in Data Science and Management Consulting at various firms, including KPMG and Porsche Consulting.
