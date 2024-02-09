@@ -112,7 +112,7 @@ The field of modern medicine faces significant challenges. On one hand, demograp
 The "Applied Machine Learning Lab" (AML Lab) rises to meet these challenges in medicine. We are dedicated to developing and implementing artificial intelligence (AI) to enhance efficiency and precision in diagnostics. Our algorithms assist medical professionals by aiding in the analysis and interpretation of findings, thereby accelerating the diagnosis process. Our AI models analyze imaging data, identify patterns, and provide valuable insights that serve as decision-making aids for medical staff. However, we take the view that the final decision is always the responsibility of the healthcare professional and that the AI tools provide assistance.
 
 #### Our Commitment
-At AML Lab, we are committed to bridging the gap between advanced technology and everyday medical practices, ensuring that healthcare professionals are equipped with the best tools to make informed decisions. For more information or to collaborate with us, please contact [contact information].
+At AML Lab, we are committed to bridging the gap between advanced technology and everyday medical practices, ensuring that healthcare professionals are equipped with the best tools to make informed decisions.
 
 #### Highlighted Publications
 
