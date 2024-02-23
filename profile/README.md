@@ -117,7 +117,7 @@ At AML Lab, we are committed to bridging the gap between advanced technology and
 #### Highlighted Publications
 
 - [Biesner, D. , Schneider, H., Wulff, B., Attenberger, U. & Sifa, R. (2022). **Improving Chest X-Ray Classification by RNN-based Patient Monitoring.** 21st IEEE International Conference on Machine Learning and Applications (ICMLA), Nassau, Bahamas, 2022, pp. 946-950.](https://doi.org/10.1109/ICMLA55696.2022.00158)
-- [Schneider, H. et al. (2023). **Symmetry-Aware Siamese Network: Exploiting Pathological Asymmetry for Chest X-Ray Analysis.** Artificial Neural Networks and Machine Learning – ICANN 2023. Lecture Notes in Computer Science, 14257, Springer.](https://doi.org/10.1007/978-3-031-44216-2_14)
+- [Schneider, H., Lübbering, M., Kador, R., Broß, M., Priya, P., Biesner, D., Wulff, B., de Oliveira, T.B., Layer, Y.C., Attenberger, U. & Sifa, R. (2023). **Symmetry-Aware Siamese Network: Exploiting Pathological Asymmetry for Chest X-Ray Analysis.** Artificial Neural Networks and Machine Learning – ICANN 2023. Lecture Notes in Computer Science, 14257, Springer.](https://doi.org/10.1007/978-3-031-44216-2_14)
 - [Luetkens, J.A., Nowak, S., Mesropyan, N. et al. (2022). **Deep learning supports the differentiation of alcoholic and other-than-alcoholic cirrhosis based on MRI.** Sci Rep 12, 8297.](https://doi.org/10.1038/s41598-022-12410-2)
 
 ## Behavioral Analytics
