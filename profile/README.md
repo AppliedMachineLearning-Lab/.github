@@ -63,9 +63,9 @@ We advance Representation Learning in NLP by focusing on developing sophisticate
 
 #### Highlighted Publications
 
-- [Ramamurthy, R., Ammanabrolu, P., Brantley, K., Hessel, J., Sifa, R., Bauckhage, C., Hajishirzi, H & Choi, Y. (2023). **Is Reinforcement Learning (Not) for Natural Language Processing: Benchmarks, Baselines, and Building Blocks for Natural Language Policy Optimization**.. In The Eleventh International Conference on Learning Representations (ICLR).](https://openreview.net/forum?id=8aHzds2uUyB)
+- [Ramamurthy, R., Ammanabrolu, P., Brantley, K., Hessel, J., Sifa, R., Bauckhage, C., Hajishirzi, H & Choi, Y. (2023). **Is Reinforcement Learning (Not) for Natural Language Processing: Benchmarks, Baselines, and Building Blocks for Natural Language Policy Optimization**. The Eleventh International Conference on Learning Representations (ICLR).](https://openreview.net/forum?id=8aHzds2uUyB)
 - [Deußer, T., Hillebrand, L., Bauckhage, C., & Sifa, R. (2023). **Informed Named Entity Recognition Decoding for Generative Language Models**.](https://doi.org/10.48550/arXiv.2308.07791)
-- [Wahab, A., & Sifa, R. (2021, December). **DIBERT: Dependency injected bidirectional encoder representations from transformers**. In 2021 IEEE Symposium Series on Computational Intelligence (SSCI) (pp. 1-8). IEEE.](https://doi.org/10.1109/SSCI50451.2021.9659898)
+- [Wahab, A., & Sifa, R. (2021, December). **DIBERT: Dependency injected bidirectional encoder representations from transformers**. 2021 IEEE Symposium Series on Computational Intelligence (SSCI), pp. 1-8.](https://doi.org/10.1109/SSCI50451.2021.9659898)
 
 
 ### 2. NLP for Finance
@@ -82,9 +82,9 @@ Our lab is dedicated to developing advanced NLP solutions specifically tailored 
 
 #### Highlighted Publications
 
-- [Deußer, T., Leonhard, D., Hillebrand, L. P., Berger, A., Khaled, M., Heiden, S., Dilmaghani, T., Kliem, B., Loitz, R., Bauckhage, C., & Sifa, R. (2023). **Uncovering Inconsistencies and Contradictions in Financial Reports using Large Language Models.** International Conference on Big Data (BigData) IEEE.](https://doi.org/10.24406/publica-2501)
-- [Hillebrand, L., Deußer, T., Dilmaghani, T., Kliem, B., Loitz, R., Bauckhage, C., & Sifa, R. (2022). **KPI-BERT: A joint named entity recognition and relation extraction model for financial reports.** In 2022 26th International Conference on Pattern Recognition (ICPR) (pp. 606-612). IEEE.](https://doi.org/10.1109/ICPR56361.2022.9956191)
-- [Sifa, R., Ladi, A., Pielka, M., Ramamurthy, R., Hillebrand, L., Kirsch, B., ... & Loitz, R. (2019, September). **Towards automated auditing with machine learning**. In Proceedings of the ACM Symposium on Document Engineering (DocEng) 2019 (pp. 1-4).](https://doi.org/10.1145/3342558.3345421)
+- [Deußer, T., Leonhard, D., Hillebrand, L. P., Berger, A., Khaled, M., Heiden, S., Dilmaghani, T., Kliem, B., Loitz, R., Bauckhage, C., & Sifa, R. (2023). **Uncovering Inconsistencies and Contradictions in Financial Reports using Large Language Models.** International Conference on Big Data (BigData).](https://doi.org/10.24406/publica-2501)
+- [Hillebrand, L., Deußer, T., Dilmaghani, T., Kliem, B., Loitz, R., Bauckhage, C., & Sifa, R. (2022). **KPI-BERT: A joint named entity recognition and relation extraction model for financial reports.** 2022 26th International Conference on Pattern Recognition (ICPR), pp. 606-612.](https://doi.org/10.1109/ICPR56361.2022.9956191)
+- [Sifa, R., Ladi, A., Pielka, M., Ramamurthy, R., Hillebrand, L., Kirsch, B., ... & Loitz, R. (2019). **Towards automated auditing with machine learning**. Proceedings of the ACM Symposium on Document Engineering (DocEng) 2019, pp. 1-4.](https://doi.org/10.1145/3342558.3345421)
 
 ### 3. Legal NLP
 
@@ -116,7 +116,7 @@ At AML Lab, we are committed to bridging the gap between advanced technology and
 
 #### Highlighted Publications
 
-- [D. Biesner, H. Schneider, B. Wulff, U. Attenberger and R. Sifa (2022). **Improving Chest X-Ray Classification by RNN-based Patient Monitoring.** 21st IEEE International Conference on Machine Learning and Applications (ICMLA), Nassau, Bahamas, 2022, pp. 946-950.](https://doi.org/10.1109/ICMLA55696.2022.00158)
+- [Biesner, D. , Schneider, H., Wulff, B., Attenberger, U. & Sifa, R. (2022). **Improving Chest X-Ray Classification by RNN-based Patient Monitoring.** 21st IEEE International Conference on Machine Learning and Applications (ICMLA), Nassau, Bahamas, 2022, pp. 946-950.](https://doi.org/10.1109/ICMLA55696.2022.00158)
 - [Schneider, H. et al. (2023). **Symmetry-Aware Siamese Network: Exploiting Pathological Asymmetry for Chest X-Ray Analysis.** Artificial Neural Networks and Machine Learning – ICANN 2023. Lecture Notes in Computer Science, 14257, Springer.](https://doi.org/10.1007/978-3-031-44216-2_14)
 - [Luetkens, J.A., Nowak, S., Mesropyan, N. et al. (2022). **Deep learning supports the differentiation of alcoholic and other-than-alcoholic cirrhosis based on MRI.** Sci Rep 12, 8297.](https://doi.org/10.1038/s41598-022-12410-2)
 
@@ -136,11 +136,11 @@ Our strategy involves refining analytical methods to capture complex human behav
 
 #### Highlighted Publications
 
-- [R. Perry, A. Drachen, A. Kearney, S. Kriglstein, L.E. Nacke, R. Sifa, G. Wallner and D. Johnson (2018). **Online-only friends, real-life friends or strangers? Differential associations with passion and social capital in video game play.** Computers in Human Behavior, 79, pp. 202-210.](https://doi.org/10.1016/j.chb.2017.10.032)
+- [Perry, R., Drachen, A., Kearney, A., Kriglstein, S., Nacke, L.E., Sifa, R., Wallner, G. & Johnson, D. (2018). **Online-only friends, real-life friends or strangers? Differential associations with passion and social capital in video game play.** Computers in Human Behavior, 79, pp. 202-210.](https://doi.org/10.1016/j.chb.2017.10.032)
 
-- [M. Schaekermann, G. Ribeiro, G. Wallner, S. Kriglstein, D. Johnson, A. Drachen, R. Sifa and L. E. Nacke (2017). **Curiously Motivated: Profiling Curiosity with Self-Reports and Behaviour Metrics in the Game "Destiny".** Proceedings of the Annual Symposium on Computer-Human Interaction in Play 2017, New York, USA, pp. 143-156.](https://doi.org/10.1145/3116595.3116603)
+- [Schaekermann, M., Ribeiro, G., Wallner, G., Kriglstein, S., Johnson, D., Drachen, A., Sifa, R. & Nacke, L. E. (2017). **Curiously Motivated: Profiling Curiosity with Self-Reports and Behaviour Metrics in the Game "Destiny".** Proceedings of the Annual Symposium on Computer-Human Interaction in Play 2017, New York, USA, pp. 143-156.](https://doi.org/10.1145/3116595.3116603)
 
-- [F. Hadiji, R. Sifa, A. Drachen, C. Thurau, K. Kersting and C. Bauckhage (2014). **Predicting player churn in the wild.** 2014 IEEE Conference on Computational Intelligence and Games (CIG), Dortmund, Germany, pp. 1-8.](https://doi.org/10.1109/CIG.2014.6932876)
+- [Hadiji, F., Sifa, R., Drachen, A., Thurau, C., Kersting, K. & Bauckhage, C. (2014). **Predicting player churn in the wild.** 2014 IEEE Conference on Computational Intelligence and Games (CIG), Dortmund, Germany, pp. 1-8.](https://doi.org/10.1109/CIG.2014.6932876)
 
 
 # Teaching
